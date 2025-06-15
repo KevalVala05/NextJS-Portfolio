@@ -17,11 +17,7 @@ export default function Home() {
         <Layout className="pt-0">
           <div className="flex items-center justify-between w-full">
             <div className="w-1/2">
-              <Image
-                src={profilePic}
-                className="w-full h-auto"
-                // className="w-3/4 h-auto"
-              />
+              <Image src={profilePic} className="w-full h-auto" />
             </div>
             <div className="w-1/2 flex flex-col items-center self-center">
               <AnimatedText
@@ -35,15 +31,19 @@ export default function Home() {
                 web development.
               </p>
               <div className="flex items-center self-start mt-2">
-                <Link href="/dummy.pdf" target="_blank"
-                download={true}
-                className="flex items-center bg-dark text-light p-2.5 px-6 rounded-lg text-lg border-2  border-transparent hover:border-dark font-semibold hover:bg-light hover:text-dark"
+                <Link
+                  href="/dummy.pdf"
+                  target="_blank"
+                  download={true}
+                  className="flex items-center bg-dark text-light p-2.5 px-6 rounded-lg text-lg border-2 border-transparent hover:border-dark font-semibold hover:bg-light hover:text-dark"
                 >
                   Resume <LinkArrow className={"w-6 ml-1"} />
                 </Link>
                 <Link
-                className="ml-4 text-lg font-medium capitalize text-dark underline"
-                href="mailto:abcd@gmail.com" target="_blank">
+                  className="ml-4 text-lg font-medium capitalize text-dark underline"
+                  href="mailto:abcd@gmail.com"
+                  target="_blank"
+                >
                   Contact
                 </Link>
               </div>
