@@ -23,7 +23,7 @@ const Logo = () => {
           },
         }}
         href="/"
-        className="w-16 h-16 bg-dark text-light flex items-center justify-center rounded-full text-2xl font-bold"
+        className="w-16 h-16 bg-dark dark:border-light border border-solid border-transparent text-light flex items-center justify-center rounded-full text-2xl font-bold"
       >
         CB
       </MotionLink>
