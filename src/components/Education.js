@@ -49,23 +49,23 @@ const Education = () => {
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
             type={"Higher Education (Science Stream)"}
-            time={"2014-2016"}
+            time={"2018-2019"}
             place={
               "Gujarat Secondary and Higher Secondary Education Board (GSEB)"
             }
             info={`Subjects included Mathematics, Physics, Chemistry, and English.`}
           />
           <Details
-            type={"Bachelor of Engineering (CSE)"}
-            time={"2016-2020"}
+            type={"Bachelor of Engineering (IT)"}
+            time={"2019-2023"}
             place={"Gujarat Technological University (GTU)"}
-            info={`Relevant courses included Data Structures and Algorithms, Computer Systems Engineering, and Artificial 
+            info={`Relevant courses included Data Structures and Algorithms, Database Management, and Artificial 
 Intelligence.
 `}
           />
           <Details
             type={"Online Coursework"}
-            time={"2016-2020"}
+            time={"2019-2023"}
             place={"Coursera And EdX"}
             info={`Completed coursework in advanced topics such as Reinforcement Learning, Computer Vision, and Machine Learning Engineering.`}
           />

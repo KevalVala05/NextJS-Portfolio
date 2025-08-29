@@ -22,7 +22,7 @@ const Footer = () => {
             target="_blank"
             className="underline underline-offset-2"
           >
-            Keval Panchal
+            Keval Vala
           </Link>
         </div>
         <Link href="/" target="_blank" className="underline underline-offset-2">

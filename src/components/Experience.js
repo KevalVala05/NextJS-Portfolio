@@ -57,19 +57,19 @@ const Experience = () => {
         />
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
-            position={"Freelance Software Developer"}
-            companyLink={"https://www.upwork.com/"}
-            company={"Upwork"}
-            time={"2021-Present"}
-            address={"Remote"}
+            position={"Software Developer"}
+            companyLink={"https://www.siliconithub.com/"}
+            company={"Silicon IT Hub"}
+            time={"May 2024 - Sept 2025"}
+            address={"Onsite"}
             work={`Worked as part of a team delivering new features for various clients, focusing on improving result accuracy and relevance, and building tools for data analysis and visualization tailored to client needs.
 `}
           />
           <Details
             position={"Freelance Software Developer"}
-            companyLink={"https://www.fiverr.com/"}
-            company={"Fiverr"}
-            time={"Summer 2021"}
+            companyLink={"https://sovendeveloper.com/"}
+            company={"Soven Developer"}
+            time={"Mar 2024 - Apr 2024"}
             address={"Remote"}
             work={`
 Worked on a team responsible for developing a new mobile app feature that allowed users to create and 
@@ -79,20 +79,20 @@ the backend infrastructure to support the feature.
           />
 
           <Details
-            position={"Freelance Software Developer"}
-            companyLink={"https://www.truelancer.com/"}
-            company={"Truelancer"}
-            time={"2020-2021"}
-            address={"Remote"}
+            position={"Software Developer"}
+            companyLink={"https://raoinformationtechnology.com/"}
+            company={"Rao InfoTech"}
+            time={"Jul 2023 - Feb 2024"}
+            address={"Onsite"}
             work={`Worked on a team responsible for developing mobile app, including implementing new features such 
 as product recommendations and user reviews, and optimizing the app's performance and reliability.`}
           />
 
           <Details
-            position={"Freelance Software Developer"}
-            companyLink={"https://www.freelancer.com/"}
-            company={"Freelancer"}
-            time={"Summer 2019"}
+            position={"Software Developer Trainee"}
+            companyLink={"https://parsetu.de/"}
+            company={"Parsetu"}
+            time={"Oct 2022 - Jun 2023"}
             address={"Remote"}
             work={`Collaborated on developing new features for a client web app, including redesigning the settings panel UI, improving core component performance, and building an additional website to fulfill client needs.`}
           />
