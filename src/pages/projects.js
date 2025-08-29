@@ -10,7 +10,7 @@ import project1 from "../../public/images/projects/crypto-screener-cover-image.j
 import project2 from "../../public/images/projects/project_2.png";
 import project3 from "../../public/images/projects/nft-collection-website-cover-image.jpg";
 import project4 from "../../public/images/projects/fashion-studio-website.jpg";
-import project5 from "../../public/images/projects/portfolio-cover-image.jpg";
+import project5 from "../../public/images/projects/project_4.png";
 import project6 from "../../public/images/projects/agency-website-cover-image.jpg";
 import project7 from "../../public/images/projects/devdreaming.jpg";
 import TransitionEffect from "@/components/TransitionEffect";
@@ -173,13 +173,11 @@ local currency.
             <div className="col-span-12 ">
               <FeaturedProject
                 img={project5}
-                title="React Portfolio Website"
-                summary={`
-                A professional portfolio website using React JS, Framer-motion, and Styled-components. It has smooth page transitions, cool background effects, unique design and it is mobile responsive.
-                `}
+                title="Quick Blog App"
+                summary={`Quick Blog is a modern React and Node.js blogging platform that uses AI to generate detailed blog content from your input, enabling fast and easy publishing.`}
                 link={"/"}
                 github={"/"}
-                type={"Portfolio Website"}
+                type={"Web App"}
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
