@@ -8,8 +8,8 @@ import { GithubIcon } from "@/components/Icons";
 import { motion } from "framer-motion";
 import project1 from "../../public/images/projects/crypto-screener-cover-image.jpg";
 import project2 from "../../public/images/projects/project_2.png";
-import project3 from "../../public/images/projects/nft-collection-website-cover-image.jpg";
-import project4 from "../../public/images/projects/fashion-studio-website.jpg";
+import project3 from "../../public/images/projects/project_6.png";
+import project4 from "../../public/images/projects/project_1.png";
 import project5 from "../../public/images/projects/project_4.png";
 import project6 from "../../public/images/projects/agency-website-cover-image.jpg";
 import project7 from "../../public/images/projects/devdreaming.jpg";
@@ -144,29 +144,25 @@ const projects = () => {
             <div className="col-span-6 sm:col-span-12">
               <Project
                 img={project3}
-                title="NFT collection Website"
+                title="Imagify - AI Image Generator App"
                 summary={`
-                A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
-It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
-local currency.
+                Transform your words into stunning visuals instantly. With the power of AI, you can create unique artworks in seconds—just type your ideas and watch them come alive as captivating images.
                 `}
                 link={"/"}
                 github={"/"}
-                type={"Website Template"}
+                type={"Web App"}
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
                 img={project4}
-                title="Fashion Studio Website"
+                title="Quick Show App"
                 summary={`
-                A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. 
-It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your 
-local currency.
+                Users can browse movies, view show timings, book tickets, and manage bookings with an intuitive interface. Admins can manage movies, shows, and bookings from a secure dashboard.
                 `}
                 link={"/"}
                 github={"/"}
-                type={"Website"}
+                type={"Web App"}
               />
             </div>
 
