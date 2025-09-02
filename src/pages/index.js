@@ -40,7 +40,7 @@ export default function Home() {
               </p>
               <div className="flex items-center self-start mt-2 lg:self-center">
                 <Link
-                  href="/dummy.pdf"
+                  href="/Keval_Vala.pdf"
                   target="_blank"
                   download={true}
                   className="flex items-center bg-dark text-light p-2.5 px-6 rounded-lg text-lg border-2 border-transparent hover:border-dark font-semibold hover:bg-light hover:text-dark dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light
@@ -51,7 +51,7 @@ export default function Home() {
                 </Link>
                 <Link
                   className="ml-4 text-lg font-medium capitalize text-dark underline dark:text-light md:text-base"
-                  href="mailto:devkevalp09@gmail.com"
+                  href="mailto:valakeval08@gmail.com"
                   target="_blank"
                 >
                   Contact

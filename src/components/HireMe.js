@@ -13,7 +13,7 @@ const HireMe = () => {
         />
         <Link
         target="_blank"
-          href="mailto:devkevalp09@gmail.com"
+          href="mailto:valakeval08@gmail.com"
           className="flex items-center justify-center
           absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2
           bg-dark text-light shadow-md border border-solid border-dark
