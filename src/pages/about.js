@@ -53,11 +53,11 @@ const about = () => {
                 Biography
               </h2>
               <p className="font-medium">
-                Hi, I'm Keval Vala, a Full stack developer and Frontend developer with a
+                {`Hi, I'm Keval Vala, a Full stack developer and Frontend developer with a
                 passion for creating beautiful, functional, and user-centered
                 digital experiences. With 2+ years of experience in the field. I
                 am always looking for new and innovative ways to bring my
-                clients' visions to life.
+                clients' visions to life.`}
               </p>
               <p className="my-4 font-medium">
                 I believe that design is about more than just making things look
