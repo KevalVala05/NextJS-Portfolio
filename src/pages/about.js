@@ -64,12 +64,12 @@ const about = () => {
                 pretty.
               </p>
               <p className="font-medium">
-                it's about solving problems and creating intuitive, enjoyable
+                {`it's about solving problems and creating intuitive, enjoyable
                 experiences for users. - Whether I'm working on a website,
                 mobile app, or other digital product, I bring my commitment to
                 design excellence and user-centered thinking to every project I
                 work on. I look forward to the opportunity to bring my skills
-                and passion to your next project.
+                and passion to your next project.`}
               </p>
             </div>
             <div
