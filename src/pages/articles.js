@@ -139,8 +139,8 @@ const articles = () => {
               }
               summary={`Learn how to build a custom pagination component in ReactJS from scratch. 
 Follow this step-by-step guide to integrate Pagination component in your ReactJS project.`}
-              time={"9 min read"}
-              link={"/"}
+              time={"11 min read"}
+              link={"https://next-js-blog-cyan.vercel.app/blogs/build-custom-pagination-component-reactjs"}
             />
 
             <FeaturedArticle
@@ -151,8 +151,8 @@ Follow this step-by-step guide to integrate Pagination component in your ReactJS
               summary={`Learn how to create stunning loading screens in React with 3 different methods. 
 Discover how to use React-Loading, React-Lottie & build a custom loading screen. 
 Improve the user experience.`}
-              time={"10 min read"}
-              link={"/"}
+              time={"21 min read"}
+              link={"https://next-js-blog-cyan.vercel.app/blogs/creating-stunning-loading-screens-react"}
             />
           </ul>
           <h2 className="font-bold text-4xl w-full text-center my-16 mt-32">
